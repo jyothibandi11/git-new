@@ -1,4 +1,4 @@
 # git-new 
-this is jyothi
+This is jyothi
 <br>
-thank you
+Thank you
